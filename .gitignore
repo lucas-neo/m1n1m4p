@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+.DS_Store
+dataset_encrypted_fixed_size/
+*.pt
+minimap-report.md
+dataset-description.md
+discovery-conectar-modelo.md
